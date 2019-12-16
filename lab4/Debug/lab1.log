@@ -1,0 +1,23 @@
+﻿  about.cpp
+  MainTask.cpp
+  MyForm.cpp
+c:\users\admin\documents\ннгу\lab4\NumberSolution.h(260): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\NumberSolution.h(262): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\NumberSolution.h(323): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\NumberSolution.h(325): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1727): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1747): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1820): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1835): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1846): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1857): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1872): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1939): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\documents\ннгу\lab4\MyForm.h(1959): warning C4018: <: несоответствие типов со знаком и без знака
+MyForm.cpp(11): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Table.cpp
+  TestTask.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  lab1.vcxproj -> C:\Users\Admin\Documents\ННГУ\lab4\Debug\lab1.exe
+  lab1.vcxproj -> C:\Users\Admin\Documents\ННГУ\lab4\Debug\lab1.pdb (Full PDB)
